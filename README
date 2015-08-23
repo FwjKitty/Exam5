@@ -1,0 +1,5 @@
+程序运行步骤：
+mvn clean
+mvn install
+mvn tomcat:run
+在浏览器地址栏输入：http://localhost:8080/Exam5/login.jsp
